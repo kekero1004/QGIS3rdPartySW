@@ -11,9 +11,9 @@ name=DaumAPI
 qgisMinimumVersion=2.99
 qgisMaximumVersion=3.99
 description=Daum API Tool
-version=2.2.2
+version=0.1
 author=Jordan Moon
-email=koreastan@gmail.com
+github=https://github.com/kekero1004/QGIS3rdPartySW
 
 about= This is a Tool for Daum API. You can use this app without license.
 
