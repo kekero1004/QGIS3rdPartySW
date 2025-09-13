@@ -31,4 +31,3 @@ More Details method to install and use.
 
 15.Run as a load view pop-up window to the Daegu City Hall branch as shown in the window.
 
-![image](https://user-images.githubusercontent.com/67427415/161979274-44734c95-151a-4ea4-9432-2646e4cb1358.png)
